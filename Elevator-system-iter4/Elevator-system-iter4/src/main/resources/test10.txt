@@ -1,0 +1,2 @@
+03:05:10.000 2 Up 4
+03:05:15.000 error elevator 1 door-stuck duration 20 s
